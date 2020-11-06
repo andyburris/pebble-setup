@@ -1,6 +1,6 @@
 # Pebble Development Setup
 
-After the shutdown of CloudPebble, developing apps for Pebble has been much harder, especially on Windows machines. However, using Windows Subsystem for Linux, this is entirely possible. Additionally, due to some broken links on the [developer.rebble.io](https://developer.rebble.io/) page, the general instructions for installation are hard to find, so this post will also serve as a host for the instructions for Mac and Linux as well.
+After the shutdown of CloudPebble, developing apps for Pebble has been much harder, especially on Windows machines. However, using Windows Subsystem for Linux, this is entirely possible. Additionally, due to some broken links on the [developer.rebble.io](https://developer.rebble.io/) page, the general instructions for installation are hard to find and sometimes outdated, so this guide will also serve as a host for the instructions for Mac and Linux as well.
 
 # Linux/Windows
 
@@ -210,7 +210,7 @@ If you don't want to set it up on your local system, or if something from this g
 
 Anyways, I hoped this helped some people get set up with developing for Pebble. If you have any questions or if I missed anything, let me know by filing an issue or on the [Rebble discord](http://rebble.io/discord).
 
-This post is mostly based off of these links:
+This guide is mostly based off of these links:
 
 [https://developer.rebble.io/developer.pebble.com/sdk/download/index.html](https://developer.rebble.io/developer.pebble.com/sdk/download/index.html)
 
