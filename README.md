@@ -79,7 +79,7 @@ Install the Python library dependencies locally:
 
 ```bash
 # Install requirements
-[ -e .env ] || virtualenv .env
+[ -e .env ] || virtualenv --python=python2.7 .env
 . .env/bin/activate
 pip install -r requirements.txt
 pip install -r pebble-tool/requirements.txt
