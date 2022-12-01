@@ -162,7 +162,7 @@ You can install the built app either on an emulator or on your phone.
     Run `pebble install --emulator [aplite, basalt, chalk]`, and a window with the emulator in it running the app should appear.
 
 - **Phone**
-    Turn on the Developer Connection in the Pebble app on your phone (in the Settings menu). Run `pebble install --phone <IP address in developer` in the command line, and the app should appear on your Pebble.
+    Turn on the Developer Connection in the Pebble app on your phone (in the Settings menu). Run `pebble install --phone <IP address in developer settings>` in the command line, and the app should appear on your Pebble.
 
 # Writing Apps
 Once all of this is set up, having a code editor makes working with these projects much easier, and is another missing feature from CloudPebble. [VSCode](https://code.visualstudio.com/) is a popular editor, but any code editor works. Also, be sure to check the #app-dev channel on the [Rebble discord](http://rebble.io/discord) if you have any issues or questions during development.
