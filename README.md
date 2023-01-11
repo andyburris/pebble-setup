@@ -32,6 +32,7 @@ sudo apt install -y libsdl1.2debian libfdt1 libpixman-1-0
 # Python 2.7 + pip + virtualenv
 sudo apt update
 sudo apt install python2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1 
 curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
 sudo python2 get-pip.py
 sudo -H python2.7 -m pip install -U pip setuptools wheel virtualenv
