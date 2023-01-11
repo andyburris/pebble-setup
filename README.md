@@ -35,7 +35,7 @@ sudo apt install python2
 curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
 sudo python2 get-pip.py
 sudo -H python2.7 -m pip install -U pip setuptools wheel virtualenv
-sudo apt install python-dev
+sudo apt install python2-dev
 
 # Node.js + npm (will take a few minutes if npm isn't already installed)
 sudo apt install libnode-dev npm 
