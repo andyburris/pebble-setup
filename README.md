@@ -202,7 +202,7 @@ Framework to write watchfaces (no watch apps) in Javascript that run natively on
 If you don't want to set it up on your local system, or if something from this guide isn't working, you can use these options to get a prebuilt development environment.
 
 **Ubuntu Virtual Machine Image**
-[https://willow.systems/pebble/vm/](https://willow.systems/pebble/vm/)
+[https://rebble.io/hackathon-001/vm/](https://rebble.io/hackathon-001/vm/)
 
 **Docker Image**
 [https://hub.docker.com/r/rebble/pebble-sdk](https://hub.docker.com/r/rebble/pebble-sdk)
